@@ -12,7 +12,7 @@ Worked as a Data Analyst and Frontend Web Developer Intern at **RichestSoft**, C
 📊 **Problem Solving:**  
 Solved **300+ problems on LeetCode**, strengthening my analytical thinking, SQL logic, and problem-solving approach.
 
-🔗[ My Leetcode Profile : https://leetcode.com/u/Ajay1263/](https://leetcode.com/u/Ajay1263/)
+🔗[My Leetcode Profile](https://leetcode.com/u/Ajay1263/)
 
 ---
 
