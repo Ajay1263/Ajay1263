@@ -20,7 +20,9 @@ I’m naturally curious about businesses, enjoy learning new things, and have ac
 ---
 
 🔗 **My Leetocode Profile**  
+
 https://leetcode.com/u/Ajay1263/
+
 ---
 
 ## 🛠️ Skills
