@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Ajay1263/Ajay1263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 22-year-old aspiring Data and Business Analyst, passionate about finding patterns in data and answers to business questions—usually with SQL and coffee.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Professional Experience:**  
+Worked as a Data Analyst and Frontend Web Developer Intern at **Richest Company**, Currently working as a **Project Engineer at Wipro**. Experienced in applying data analysis techniques, building insightful **Power BI dashboards**, and translating business problems into data-driven solutions. Hands-on experience with enterprise tools including **SAP BTP Integration Suite**.
+
+---
+
+📊 **Problem Solving:**  
+Solved **300+ problems on LeetCode**, strengthening my analytical thinking, SQL logic, and problem-solving approach.
+
+---
+
+😄 **A little about me:**  
+I’m naturally curious about businesses, enjoy learning new things, and have accepted that restarting sometimes really does fix the problem.
+
+---
+
+🔗 **Let’s connect:**  
+[LinkedIn – Ajay Raj Singh](https://www.linkedin.com/in/ajay-raj-singh-37838b227/)
