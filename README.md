@@ -41,4 +41,4 @@ I’m naturally curious about businesses, enjoy learning new things, and have ac
 
 📧 Email: ajayraj1263singh@gmail.com  
 
-🔗 LinkedIn: Ajay Raj Singh
+🔗 LinkedIn: [Ajay Raj Singh](https://www.linkedin.com/in/ajay-raj-singh-37838b227/)
