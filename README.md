@@ -19,11 +19,8 @@ I’m naturally curious about businesses, enjoy learning new things, and have ac
 
 ---
 
-🔗 **Let’s connect:**  
-[LinkedIn – Ajay Raj Singh](https://www.linkedin.com/in/ajay-raj-singh-37838b227/)
-
+🔗 **My Leetocode Profile**  
 https://leetcode.com/u/Ajay1263/
-
 ---
 
 ## 🛠️ Skills
