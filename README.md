@@ -5,7 +5,7 @@ I’m a 22-year-old aspiring Data and Business Analyst, passionate about finding
 ---
 
 💼 **Professional Experience:**  
-Worked as a Data Analyst and Frontend Web Developer Intern at **Richest Company**, Currently working as a **Project Engineer at Wipro**. Experienced in applying data analysis techniques, building insightful **Power BI dashboards**, and translating business problems into data-driven solutions. Hands-on experience with enterprise tools including **SAP BTP Integration Suite**.
+Worked as a Data Analyst and Frontend Web Developer Intern at **RichestSoft**, Currently working as a **Project Engineer at Wipro**. Experienced in applying data analysis techniques, building insightful **Power BI dashboards**, and translating business problems into data-driven solutions. Hands-on experience with enterprise tools including **SAP BTP Integration Suite**.
 
 ---
 
