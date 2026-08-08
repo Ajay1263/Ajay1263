@@ -11,7 +11,7 @@
   </line>
 </svg>
 
-I’m a 22-year-old aspiring Data and Business Analyst, passionate about finding patterns in data and answers to business questions—usually with SQL and coffee.
+I’m a 23-year-old aspiring Data and Business Analyst, passionate about finding patterns in data and answers to business questions—usually with SQL and coffee.
 
 ---
 
